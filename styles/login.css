@@ -1,0 +1,22 @@
+#navbar{
+    display: flex;
+    border: 1px solid white;
+    justify-content: flex-end;
+    
+}
+#navbar>div{
+    margin-right: 80px;
+}
+#login-form-div{
+    margin-top: 60px;
+    margin-left: 40%;
+}
+#login-form-div>form>input{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
